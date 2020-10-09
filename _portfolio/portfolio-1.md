@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Embedded Game Emulator with Custom Bluetooth Controllers"
+excerpt: "A final project that I worked on for ECE 5725, a class built around designing on the Raspberry Pi. <br/><img src='/images/500x300.png'>"
 collection: something other than portfolio
 ---
 
