@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alex (page title?)"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Alex Hatzis"
-description              : &description "gamer"
+description              : &description "ECE"
 url                      : "https://alexhatzis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexhatzis/alexhatzis.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alex Hatzis"
   avatar           : "profile.png"
-  bio              : "left bio"
+  bio              : "MEng in Electrical and Computer Engineering"
   location         : "Ithaca, NY"
-  employer         : "none...yet"
+  employer         : #"none...yet"
   pubmed           : 
   googlescholar    : 
   email            :  "alexhatzis64@gmail.com"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"alexhatzis"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
