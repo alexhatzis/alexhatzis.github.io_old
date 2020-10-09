@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Alex Hatzis"
 description              : &description "ECE"
@@ -87,7 +87,7 @@ author:
   employer         : #"none...yet"
   pubmed           : 
   googlescholar    : 
-  email            :  "alexhatzis64@gmail.com"
+  alexhatzis64@gmai.com            :  "alexhatzis64@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
